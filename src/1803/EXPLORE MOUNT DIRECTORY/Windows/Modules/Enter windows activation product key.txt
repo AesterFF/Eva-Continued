@@ -1,0 +1,8 @@
+1) open CMD
+
+2)slmgr /ipk XXXXX-XXXXX-XXXXX-XXXXX-XXXXX
+
+	replace "XXXXX-XXXXX-XXXXX-XXXXX-XXXXX" with your own activation key
+
+3) slmgr /ato
+

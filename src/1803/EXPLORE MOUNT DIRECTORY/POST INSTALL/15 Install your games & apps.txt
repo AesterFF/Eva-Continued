@@ -1,0 +1,3 @@
+Install your games, apps, game launchers.
+
+A built in tool allows you to install SOME apps instantly. Open CMD and type "EVA" for more info.

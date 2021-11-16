@@ -1,0 +1,7 @@
+  - Kill explorer.exe after you launch your game, it uses a ton of cycles
+  - Try to kill the game launcher (if the game allows you to) after you launch your game
+  - Don't run random tweaks, tweaking programs or fall for the "fps boost" marketing nonsense. If you have a question about a specific option or setting tag me in the EVA discord and i will be happy to answer your question
+  - Try to favour FOSS (free & open source software). Stay away from proprietary software where you can due to security features disabled in EVA
+  - You do not need an antivirus. You need a brain & uBlock origin in your browser, i also recommend installing ClearURL & https everywhere extensions
+  - Cap your framerate at a multiple of your monitors refreshrate to prevent frame mistiming (source @calypto). e.g possible fps caps with a 144hz monitor: 72, 144, 288, 432 ...
+  - Avoid capping your fps with external limiters (RTSS/GPU CP). External limiters usually buffer 1 frame which will introduce an unacceptable amount of additional latency. (144fps external cap --> added ~7ms of latency)

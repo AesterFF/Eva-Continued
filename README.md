@@ -20,7 +20,7 @@ EVA is an open source modification of the windows operating system which aims fo
   - A hassle free and highly automated post install to install gpu drivers, build both default and bare services/drivers scripts, disabling hidden powersaving, disabling security mitigations which harm performance, setting DSCP values and exclusive fullscreen for your games via a simple script & much much more
   - Less telemetry compared to the standard windows operating system
   - Reducing system latency & increasing 0.01% FPS lows
-  - Generally a snappy, consistent & responsive environment which will reward your highly optimized bios & physical setup.
+  - Generally a snappy, consistent & responsive environment which will reward your highly optimized bios & physical setup
 
 ### Important
 
@@ -40,7 +40,7 @@ EVA is an open source modification of the windows operating system which aims fo
  
 ### Download
 
-  - The download link will exclusively be available in the EVA discord. DO NOT download the image from other sources
+  - The download link will exclusively be available in the EVA discord. DO NOT download the image from other sources.
 
   - https://discord.gg/WYsArmWb8Z
 
