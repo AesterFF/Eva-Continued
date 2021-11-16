@@ -20,7 +20,7 @@ sc stop sppsvc
 :processaffinity
 if defined affinity (
 	if not %affinity% GTR 0 goto INVALID_AFFINITY
-	PowerShell -NoLogo -NoProfile -NonInteractive -Command "'dwm','audiosvchost','audiodg','lsass','svchost','WmiPrvSE' | foreach-object { (get-process $_ -ErrorAction Ignore).ProcessorAffinity=%affinity% }"
+	PowerShell -NoLogo -NoProfile -NonInteractive -Command "get-process dwm,audiosvchost,audiodg,lsass,svchost,WmiPrvSE | ForEach-Object {$_.ProcessorAffinity=%affinity%}"
 )
 
 :INVALID_AFFINITY
