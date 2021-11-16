@@ -20,18 +20,7 @@ sc stop sppsvc
 :processaffinity
 if defined affinity (
 	if not %affinity% GTR 0 goto INVALID_AFFINITY
-	PowerShell "get-process dwm | %% { $_.ProcessorAffinity=%affinity% }"
-	PowerShell "get-process dwm | foreach { $_.ProcessorAffinity=%affinity% }"
-	PowerShell "get-process audiosvchost | %% { $_.ProcessorAffinity=%affinity% }"
-	PowerShell "get-process audiosvchost | foreach { $_.ProcessorAffinity=%affinity% }"
-	PowerShell "get-process audiodg | %% { $_.ProcessorAffinity=%affinity% }"
-	PowerShell "get-process audiodg | foreach { $_.ProcessorAffinity=%affinity% }"
-	PowerShell "get-process lsass | %% { $_.ProcessorAffinity=%affinity% }"
-	PowerShell "get-process lsass | foreach { $_.ProcessorAffinity=%affinity% }"
-	PowerShell "get-process svchost | %% { $_.ProcessorAffinity=%affinity% }"
-	PowerShell "get-process svchost | foreach { $_.ProcessorAffinity=%affinity% }"
-	PowerShell "get-process WmiPrvSE | %% { $_.ProcessorAffinity=%affinity% }"
-	PowerShell "get-process WmiPrvSE | foreach { $_.ProcessorAffinity=%affinity% }"
+	PowerShell -NoLogo -NoProfile -NonInteractive -Command "'dwm','audiosvchost','audiodg','lsass','svchost','WmiPrvSE' | foreach-object { (get-process $_ -ErrorAction Ignore).ProcessorAffinity=%affinity% }"
 )
 
 :INVALID_AFFINITY
