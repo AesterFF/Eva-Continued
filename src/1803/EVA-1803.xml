@@ -91,7 +91,6 @@
 		<c>driver_tsprint.inf</c>
 		<c>driver_tsusbhubfilter.inf</c>
 		<c>driver_usbcir.inf</c>
-		<c>driver_usbprint.inf</c>
 		<c>driver_wsynth3dvsc.inf</c>
 		<c>dssvc 'Data Sharing Service'</c>
 		<c>E2A4F912-2574-4A75-9BB0-0D023378592B 'AppResolverUX'</c>
