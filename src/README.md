@@ -60,7 +60,7 @@
     WindowsDefenderApplicationGuard.wim
 	```
     
- - Once you are done, copy & paste everything in ``C:\EVA-main\src\XXXX\EXPLORE MOUNT DIRECTORY`` (where XXXX is the windows version you are building) to ``%temp%\NLTmpMnt01``. You should get no errors if you correctly took ownership of the folders listed previously.
+ - Once you are done, copy & paste everything in ``C:\EVA-main\src\1803\EXPLORE MOUNT DIRECTORY`` (where 1803 is the windows version you are building) to ``%temp%\NLTmpMnt01``. You should get no errors if you correctly took ownership of the folders listed previously.
  
  - Go to the Updates tab & uninstall the Internet Explorer update. NTLite may become unresponsive for a few seconds, be patient.
 
