@@ -18,21 +18,21 @@
    
  - Place install.bat in the ISO directory then drag the ISO folder into NTLite & Double click Windows Pro to mount the image.
 
-    <img src="https://github.com/amitxvv/structure/blob/main/content/img/BUILD INSTRUCTIONS - Mount image.png" width="600" >
+    <img src="https://github.com/AesterFF/Eva-Continued/blob/main/content/img/BUILD%20INSTRUCTIONS%20-%20Mount%20image.png" width="600" >
     
  - Go to the Features tab & untick everything apart from (see image).
 
-    <img src="https://github.com/amitxvv/structure/blob/main/content/img/BUILD INSTRUCTIONS - Disable features.png" width="300" >
+    <img src="https://github.com/AesterFF/Eva-Continued/blob/main/content/img/BUILD%20INSTRUCTIONS%20-%20Disable%20features.png" width="300" >
 
  - Go to the Apply tab & copy the setting exactly as shown (see image). Click process after you are done.
 
-    <img src="https://github.com/amitxvv/structure/blob/main/content/img/BUILD INSTRUCTIONS - Process base image.png" width="300" >
+    <img src="https://github.com/AesterFF/Eva-Continued/blob/main/content/img/BUILD%20INSTRUCTIONS%20-%20Process%20base%20image.png" width="300" >
 
  - Go to the Source tab & mount the image again. Windows Pro is the only edition you should see under the install.wim if you followed the previous steps correctly
     
  - Place the respective xml for the Windows version you are building in ``C:\Program Files\NTLite\Presets`` & right click > load > overwrite the XML in NTLite. If you get file location errors then you need to track back & ensure all the files are in the correct locations.
 
-    <img src="https://github.com/amitxvv/structure/blob/main/content/img/BUILD INSTRUCTIONS - Load XML.png" width="800" >
+    <img src="https://github.com/AesterFF/Eva-Continued/blob/main/content/img/BUILD%20INSTRUCTIONS%20-%20Load%20XML.png" width="800" >
 
  - Delete the following folders:
 	
