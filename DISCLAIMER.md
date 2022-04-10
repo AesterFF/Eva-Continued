@@ -57,7 +57,7 @@ key and are able to activate the image via another authorized
 method. Commercial distribution is strictly prohibited by law.
 Windows is a registered trademark of Microsoft Corporation.
 
-SOURCE — www.eff.org
+SOURCE — https://www.eff.org/
 
 EU Directive 2009/24, on the legal protection of computer programs, 
 governs reverse engineering in the European Union. The directive states:
@@ -79,7 +79,7 @@ exception to the author's exclusive rights may not be used in a way which
 prejudices the legitimate interests of the rightholder or which conflicts 
 with a normal exploitation of the program." 
 
-SOURCE — eur-lex.europa.eu
+SOURCE — https://eur-lex.europa.eu/
 
 The intentions as self-described by EVA's Windows projects, clearly fall under the
 case-scenario of enabling better "interoperability", as the prevalence of proprietary
