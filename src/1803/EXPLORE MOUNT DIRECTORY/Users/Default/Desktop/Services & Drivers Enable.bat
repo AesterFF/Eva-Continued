@@ -1,0 +1,3 @@
+echo Disabling Drivers and Services...
+PowerRun.exe /SW:0 "C:\Windows\EVA\Services Enable.bat"
+exit /b
