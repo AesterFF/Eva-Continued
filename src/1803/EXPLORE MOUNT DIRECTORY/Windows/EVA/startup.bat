@@ -37,3 +37,15 @@ rd /s /q "%temp%" & mkdir "%userprofile%\AppData\Local\Temp"
 exit /b
 
 :USER_DEFINED
+
+sc stop UserManager
+sc stop ProfSvc
+sc stop sppsvc
+
+sc stop UserManager
+sc stop ProfSvc
+sc stop sppsvc
+
+sc stop UserManager
+sc stop ProfSvc
+sc stop sppsvc
