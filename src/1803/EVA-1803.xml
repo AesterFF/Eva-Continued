@@ -4,8 +4,8 @@
 	<AppInfo>
 		<Version>2.3.1.8444</Version>
 		<Licensed>Yes</Licensed>
-		<Protections>Yes</Protections>
-		<Host>Windows 10 Home (21H1) x64 - 10.0.19043.928 (en-US)</Host>
+		<Protections>No</Protections>
+		<Host>Windows 10 Pro (1803) x64 - 10.0.17134.1 (en-US)</Host>
 	</AppInfo>
 	<ImageInfo>
 		<Version mode="offline">Windows 10 Professional (1803) x64 - 10.0.17134.1 (en-US)</Version>
@@ -113,8 +113,6 @@
 		<c>helpsupport 'Help file support (CHM)'</c>
 		<c>homegroup</c>
 		<c>hwsupport_infrared 'Infrared devices'</c>
-		<c>hwsupport_printer 'Printing'</c>
-		<c>hwsupport_scanner 'Scanner'</c>
 		<c>hwsupport_telephony 'Telephony'</c>
 		<c>ias 'Internet Authentication Service (IAS)'</c>
 		<c>indeo 'Intel Indeo Codecs'</c>
@@ -282,7 +280,7 @@
 		<c>winsat 'Windows System Assessment Tool (WinSAT)'</c>
 		<c>zipfolder 'Zip &amp; Cab folder'</c>
 	</RemoveComponents>
-	<Compatibility protectHidden="true">
+	<Compatibility protectHidden="false">
 		<ComponentFeatures>
 			<Feature enabled="no">CapFrameX</Feature>
 			<Feature enabled="no">Discord</Feature>
