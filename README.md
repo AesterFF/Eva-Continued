@@ -29,7 +29,7 @@ EVA is an open source modification of the windows operating system which aims fo
     anything goes wrong. If you are not comfortable & confident with setting the OS up properly do NOT install EVA. This OS is not built for the most useless benchmarking metric,
 	average fps. It's mostly catered for responsiveness and higher 0.01% lows, the real fps metric.
 
-  - Post install is meant for one time setup, do not change anything big after post install such as re-installing GPU drivers etc. The more you change, the more you will revert tweaks & worsen your experience. I have a strict order to follow during setup. it is important that you read <a href="https://github.com/amitxvv/EVA/blob/main/content/docs/PRE-INSTALL.md">PRE-INSTALL</a> before you install EVA
+  - Post install is meant for one time setup, do not change anything big after post install such as re-installing GPU drivers etc. The more you change, the more you will revert tweaks & worsen your experience. I have a strict order to follow during setup. it is important that you read <a href="https://github.com/AesterFF/Eva-Continued/blob/main/content/docs/PRE-INSTALL.md">PRE-INSTALL</a> before you install EVA
 
 ### Requirements
 
@@ -48,4 +48,4 @@ EVA is an open source modification of the windows operating system which aims fo
 
 ### Disclaimer
 
-By downloading and using any of the images provided, you agree to [Microsoft's Terms.](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm) You must use a genuine product key for activation. None of these images are preactivated. [read more](https://github.com/amitxvv/repotest/blob/main/DISCLAIMER.md)
+By downloading and using any of the images provided, you agree to [Microsoft's Terms.](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm) You must use a genuine product key for activation. None of these images are preactivated. [read more](https://github.com/AesterFF/Eva-Continued/blob/main/DISCLAIMER.md)
