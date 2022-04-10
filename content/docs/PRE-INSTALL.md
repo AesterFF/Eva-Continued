@@ -45,4 +45,4 @@ This page was inspired by [PC-Optimization-Hub by Bored](https://github.com/Bori
 	
 	NOTE: I may personally recommend you to do specific things at BREAKPOINT if you come to me with an issue.
 
-    <img src="https://github.com/amitxvv/EVA/blob/main/content/img/PRE-INSTALL - Breakpoint.png" width="800" >
+    <img src="https://github.com/AesterFF/Eva-Continued/blob/main/content/img/PRE-INSTALL%20-%20Breakpoint.png" width="800" >
