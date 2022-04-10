@@ -4,11 +4,11 @@
    
   2) Answer the questions according to your needs
    
-  3) You will be asked if you need to enter BREAKPOINT, as explained in [PRE-INSTALL](https://github.com/amitxvv/EVA/blob/main/CONTENT/pre-install.md#preparing-custom-drivers)
+  3) You will be asked if you need to enter BREAKPOINT, as explained in [PRE-INSTALL](https://github.com/AesterFF/Eva-Continued/blob/main/content/docs/PRE-INSTALL.md#preparing-custom-drivers)
    
   4) If you answered yes to wifi, you will be prompted to press CTRL + ALT + DELETE & connect to wifi via the internet icon at the bottom right of the screen:
 
-      <img src="https://github.com/amitxvv/EVA/blob/main/content/img/POST-INSTALL - Connect to wifi.png" width="450" >
+      <img src="https://github.com/AesterFF/Eva-Continued/blob/main/content/img/POST-INSTALL%20-%20Connect%20to%20wifi.png" width="450" >
 
   5) When a connection is established, setup will begin. If a internet connection is not established, setup will not continue until you are connected to the internet
       
@@ -56,7 +56,7 @@
   - Anti-Lag/prerendered frames have been set according to what you selected in the post install script
   - I can't automate HDCP for AMD gpus so make sure you disable HDCP in the display tab under overrides
 
-    <img src="https://github.com/amitxvv/EVA/blob/main/content/img/POST-INSTALL - HDCP AMD.png" width="500" >
+    <img src="https://github.com/AesterFF/Eva-Continued/blob/main/content/img/POST-INSTALL%20-%20HDCP%20AMD.png" width="500" >
 
 #### 7 NVIDIA Settings
 
@@ -76,12 +76,12 @@
     ```
   - GSYNC is left on by default, however any type of variable refresh rate feature has been proven to increase total system latency. I highly recommend turning it off but the choice is yours.
   
-	<img src="https://github.com/amitxvv/EVA/blob/main/content/img/POST-INSTALL - Disable G-SYNC.png" width="500" >
+	<img src="https://github.com/AesterFF/Eva-Continued/blob/main/content/img/POST-INSTALL%20-%20Disable%20G-SYNC.png" width="500" >
 
 #### 8 Interrupt Affinity Tool.exe
 
   - I only suggest setting affinity to your GPU & primary USB controller (the option was also in the post install script)
-  - Ideally you should use [AutoGpuAffinity](https://github.com/amitxvv/AutoGpuAffinity) to determine what CPU core gives the highest fps for each physical CPU
+  - Ideally you should use [AutoGpuAffinity](https://github.com/AesterFF/AutoGpuAffinity) to determine what CPU core gives the highest fps for each physical CPU
   - Use [Mouse tester](https://www.overclock.net/threads/mousetester-software.1535687/?__cf_chl_captcha_tk__=pmd_L1o.971oW6uA63B.sm169mZeW388u5WHIG2q_2Fr5XM-1631972772-0-gqNtZGzNAyWjcnBszQfl) to determine which CPU core gives the most stable polling for your USB controller
 
 #### 9 MSI Utility.exe 
@@ -138,7 +138,7 @@
    
     - Create a new capture
    
-      <img src="https://github.com/amitxvv/EVA/blob/main/content/img/POST-INSTALL - Network monitor new capture.png" width="450" >
+      <img src="https://github.com/AesterFF/Eva-Continued/blob/main/content/img/POST-INSTALL%20-%20Network%20monitor%20new%20capture.png" width="450" >
    
     - Open a game that you have applied a DSCP value for and enter a gamemode in which the game will send & receive packets (e.g an online match, not a local match).
    
@@ -147,7 +147,7 @@
     - In the left hand pane, click on the game executable name & click on a packet header. Expand the packet info under "Frame Details" and finally expand the subcatagory 
        "Ipv4". This will reveal the current DSCP value of each frame.
 
-      <img src="https://github.com/amitxvv/EVA/blob/main/content/img/POST-INSTALL - Network monitor DSCP.png" width="450" >
+      <img src="https://github.com/AesterFF/Eva-Continued/blob/main/content/img/POST-INSTALL%20-%20Network%20monitor%20DSCP.png" width="450" >
   
 #### 17 Autoruns.exe
 
