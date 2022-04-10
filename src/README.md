@@ -14,7 +14,7 @@
   Clone the latest EVA repository & place EVA-main in the ``C:\ `` directory.
   I will build EVA 1803 in the following instructions. Replace 1803 with whichever EVA version you would like to build. As of now, only 1803 is available.
 
- - Extract the ISO respectively, in this case it's 1803, with 7-Zip & Place it in ``C:\EVA-main\src\XXXX\PREREQUISITES`` (where XXXX is the windows version you are building) & rename it "ISO" so the folder structure is as follows: ``C:\EVA-main\src\XXXX\PREREQUISITES\ISO\sources\...``. 
+ - Extract the ISO respectively, in this case it's 1803, with 7-Zip & Place it in ``C:\EVA-main\src\1803\PREREQUISITES`` (where XXXX is the windows version you are building) & rename it "ISO" so the folder structure is as follows: ``C:\EVA-main\src\1803\PREREQUISITES\ISO\sources\...``. 
    
  - Place install.bat in the ISO directory then drag the ISO folder into NTLite & Double click Windows Pro to mount the image.
 
