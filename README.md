@@ -49,6 +49,9 @@ EVA is an open source modification of the windows operating system which aims fo
   <p align="center">
   <a href="https://github.com/AesterFF/Eva-Issues/">Eva-Issues Page</a>
 </p>
+<p align="center">
+  <a href="https://github.com/AesterFF/Eva-Issues/issues">Create an Issue</a>
+</p>
 ### Disclaimer
 
 By downloading and using any of the images provided, you agree to [Microsoft's Terms.](https://www.microsoft.com/en-us/Useterms/Retail/Windows/10/UseTerms_Retail_Windows_10_English.htm) You must use a genuine product key for activation. None of these images are preactivated. [read more](https://github.com/AesterFF/Eva-Continued/blob/main/DISCLAIMER.md)
