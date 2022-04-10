@@ -332,7 +332,6 @@
 		<c>hwsupport_infrared 'Infrared devices'</c>
 		<c>hwsupport_modem 'Modem'</c>
 		<c>hwsupport_modemsettings 'Shared modem settings (mdmgl*.inf)'</c>
-		<c>hwsupport_scanner 'Scanner'</c>
 		<c>hwsupport_smartcard 'Smartcard'</c>
 		<c>hwsupport_telephony 'Telephony'</c>
 		<c>hwsupport_tv 'TV Tuner codecs and support'</c>
