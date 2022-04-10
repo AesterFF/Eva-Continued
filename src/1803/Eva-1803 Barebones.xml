@@ -67,7 +67,6 @@
 		<c>driver_c_mcx.inf</c>
 		<c>driver_c_mediumchanger.inf</c>
 		<c>driver_c_multifunction.inf</c>
-		<c>driver_c_pnpprinters.inf</c>
 		<c>driver_c_proximity.inf</c>
 		<c>driver_c_receiptprinter.inf</c>
 		<c>driver_c_sbp2.inf</c>
@@ -464,9 +463,6 @@
 		<c>playready</c>
 		<c>pos 'Point of Service (POS)'</c>
 		<c>powershellise 'PowerShell ISE'</c>
-		<c>printmgmt 'Print Management'</c>
-		<c>printtopdf 'Print to PDF'</c>
-		<c>printworkflow 'Print Workflow Service'</c>
 		<c>projfs 'Projected File System (ProjFS)'</c>
 		<c>pushtoinstall 'Windows PushToInstall Service'</c>
 		<c>quiethours 'Quiet Hours (Focus Assist)'</c>
