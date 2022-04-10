@@ -6,11 +6,11 @@
 <h4 align="center">An open source modification of the Windows operating system reformed for performance, privacy & latency.</h4>
 
 <p align="center">
-  <a href="https://github.com/amitxvv/EVA/blob/main/content/docs/PRE-INSTALL.md">PRE-INSTALL</a>
+  <a href="https://github.com/AesterFF/Eva-Continued/blob/main/content/docs/PRE-INSTALL.md">PRE-INSTALL</a>
   -
-  <a href="https://github.com/amitxvv/EVA/blob/main/content/docs/INSTALLATION.md">INSTALLATION</a>
+  <a href="https://github.com/AesterFF/Eva-Continued/blob/main/content/docs/INSTALLATION.md">INSTALLATION</a>
   -
-  <a href="https://github.com/amitxvv/EVA/blob/main/content/docs/POST-INSTALL.md">POST-INSTALL</a>
+  <a href="https://github.com/AesterFF/Eva-Continued/blob/main/content/docs/POST-INSTALL.md">POST-INSTALL</a>
 </p>
 
 ### What does EVA offer?
