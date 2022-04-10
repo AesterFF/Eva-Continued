@@ -32,17 +32,19 @@ EVA is an open source modification of the windows operating system which aims fo
   - Post install is meant for one time setup, do not change anything big after post install such as re-installing GPU drivers etc. The more you change, the more you will revert tweaks & worsen your experience. I have a strict order to follow during setup. it is important that you read <a href="https://github.com/AesterFF/Eva-Continued/blob/main/content/docs/PRE-INSTALL.md">PRE-INSTALL</a> before you install EVA
 
 ### Requirements
-
-  - An SSD is advised however, you can install EVA on a HDD but you may experience degraded performance as the tweaks are generally catered for SSD's.
-  - CPU: 4 cores & 4 threads or more
+## These are recommended requirments means if you dont even have those you still would be able to use this OS
+  - SSD: You can install this OS on a Hard Drive but most of the tweaks and optimizations are based on SSD though you wont lose much performance if you use a Hard Disk
+  - CPU: 2 cores & 4 threads or more
   - RAM: 8 gb or more
+  - GPU: GT 710 or more
   - A moderate level of common sense
  
 ### Download
 
-  - The download link will exclusively be available in the EVA discord. DO NOT download the image from other sources.
-
-  - https://discord.gg/WYsArmWb8Z
+  - The download link will exclusively be available in the 
+  - <p align="center">
+  <a href="https://github.com/AesterFF/Eva-Continued/releases/">Eva Releases</a>
+</p>. DO NOT download the image from other sources.
 
   - Found a bug? want to suggest an improvement? want to leave a review? join the EVA discord & let me know!
 
