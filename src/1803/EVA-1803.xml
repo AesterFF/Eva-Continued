@@ -32,7 +32,6 @@
 		<c>deviceguard 'Device Guard'</c>
 		<c>diskdiagnosis 'Disk failure diagnostics'</c>
 		<c>driver_c_infrared.inf</c>
-		<c>driver_c_printer.inf</c>
 		<c>driver_c_sensor.inf</c>
 		<c>driver_fusionv2.inf</c>
 		<c>driver_hidir.inf</c>
@@ -217,9 +216,6 @@
 		<c>pdfreader 'Windows Reader (PDF)'</c>
 		<c>phonesvc 'Phone Service'</c>
 		<c>pimindexmaintenancesvc 'Contact Data'</c>
-		<c>printmgmt 'Print Management'</c>
-		<c>printtopdf 'Print to PDF'</c>
-		<c>printworkflow 'Print Workflow Service'</c>
 		<c>pushnotifications 'Windows Push Notifications'</c>
 		<c>pushnotificationssvc 'Windows Push Notifications Service (System)'</c>
 		<c>pushtoinstall 'Windows PushToInstall Service'</c>
